@@ -1,5 +1,5 @@
 a=int(input())
-for i in range(a,0,-1):
-    for j in range(i):
-        print(j+1,end='')
+for i in range(a):
+    for j in range(a,0,-1):
+        print(j,end=' ')
     print('')
