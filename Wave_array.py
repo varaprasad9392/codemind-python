@@ -8,4 +8,3 @@ if count==(a//2)-1:
     print('yes')
 else:
     print('no')
-    
